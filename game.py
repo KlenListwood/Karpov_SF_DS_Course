@@ -20,3 +20,4 @@ while True:
     else:
         print(f"You've guessed the number right! The Number is = {number}, in {count} tries")
         break # the end of the game, quit the cycle
+# Со второй попытки
