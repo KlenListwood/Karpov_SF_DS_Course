@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0.readme.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0.readme.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0.readme.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0.readme.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0.readme.md#Результат)    
-[6. Выводы](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0.readme.md#Выводы) 
+[1. Описание проекта](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0#Результаты)    
+[6. Выводы](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,25 +31,25 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0.readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0#Оглавление)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0.readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0#Оглавление)
 
 
 ### Результаты:  
-....
+Программа угадывает число в среднем за 5 попыток
 
-:arrow_up:[к оглавлению](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0.readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0#Оглавление)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0.readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KlenListwood/Karpov_SF_DS_Course/tree/main/project_0#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
